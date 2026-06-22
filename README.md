@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SUDHITHA4225/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
+| [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/SUDHITHA4225/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
