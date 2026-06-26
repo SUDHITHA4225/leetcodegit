@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/SUDHITHA4225/leetcode/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/SUDHITHA4225/leetcode/tree/master/0610-triangle-judgement) |
+| [1075-project-employees-i](https://github.com/SUDHITHA4225/leetcode/tree/master/1075-project-employees-i) |
 | [1211-queries-quality-and-percentage](https://github.com/SUDHITHA4225/leetcode/tree/master/1211-queries-quality-and-percentage) |
 ## String Matching
 |  |
