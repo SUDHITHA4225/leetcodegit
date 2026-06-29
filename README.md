@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SUDHITHA4225/leetcode/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SUDHITHA4225/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUDHITHA4225/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SUDHITHA4225/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
