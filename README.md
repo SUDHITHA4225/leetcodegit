@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SUDHITHA4225/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SUDHITHA4225/leetcode/tree/master/0089-gray-code) |
+| [0171-excel-sheet-column-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0263-ugly-number) |
 | [1289-day-of-the-week](https://github.com/SUDHITHA4225/leetcode/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SUDHITHA4225/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SUDHITHA4225/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SUDHITHA4225/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
