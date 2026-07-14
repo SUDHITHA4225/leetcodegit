@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Linked List
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUDHITHA4225/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
 | [1288-remove-covered-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SUDHITHA4225/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
