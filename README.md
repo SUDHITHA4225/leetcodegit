@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SUDHITHA4225/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SUDHITHA4225/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SUDHITHA4225/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDHITHA4225/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SUDHITHA4225/leetcode/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/SUDHITHA4225/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SUDHITHA4225/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SUDHITHA4225/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SUDHITHA4225/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SUDHITHA4225/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -186,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SUDHITHA4225/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
