@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUDHITHA4225/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
+| [1260-shift-2d-grid](https://github.com/SUDHITHA4225/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SUDHITHA4225/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SUDHITHA4225/leetcode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/SUDHITHA4225/leetcode/tree/master/1260-shift-2d-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SUDHITHA4225/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/SUDHITHA4225/leetcode/tree/master/1260-shift-2d-grid) |
 ## Database
 |  |
 | ------- |
