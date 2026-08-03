@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SUDHITHA4225/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SUDHITHA4225/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SUDHITHA4225/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SUDHITHA4225/leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUDHITHA4225/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1260-shift-2d-grid](https://github.com/SUDHITHA4225/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SUDHITHA4225/leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/SUDHITHA4225/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Number Theory
 |  |
@@ -206,5 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SUDHITHA4225/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
