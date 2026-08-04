@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SUDHITHA4225/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUDHITHA4225/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SUDHITHA4225/leetcode/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/SUDHITHA4225/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1260-shift-2d-grid](https://github.com/SUDHITHA4225/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SUDHITHA4225/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SUDHITHA4225/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SUDHITHA4225/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
